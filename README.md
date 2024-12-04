@@ -25,4 +25,6 @@ by the challenge of building high-performing, scalable web applications.
 <img align="left" alt="PreimerPro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
 <br />
 
+<br/>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nukevdnt&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" />
